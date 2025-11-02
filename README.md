@@ -95,7 +95,7 @@ Now visit 👉 **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)** in your brow
 * **Flask**
 * **Flask SQLAlchemy**
 * **Jinja2 Templates**
-* **HTML5 / CSS3 / Bootstrap**
+* **HTML5 / CSS3**
 
 
 ---
