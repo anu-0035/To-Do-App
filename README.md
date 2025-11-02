@@ -20,7 +20,7 @@ Users can **add**, **toggle**, and **delete** tasks — all stored in a local da
 
 ## 🧩 Project Structure
 
-```markdown
+```
 
 flask-todo-list/
 │
@@ -102,17 +102,6 @@ Now visit 👉 **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)** in your brow
 * **Jinja2 Templates**
 * **HTML5 / CSS3 / Bootstrap**
 
----
-
-## 📸 Screenshots
-
-*Add screenshots of your app here (optional).*
-
-Example:
-
-```markdown
-![Home Page Screenshot](static/screenshots/home.png)
-```
 
 ---
 
@@ -127,6 +116,6 @@ GitHub: [@anu-0035](https://github.com/anu-0035)
 
 This project is open source and available under the [MIT License](LICENSE).
 
-````
+
 
 
