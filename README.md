@@ -1,6 +1,3 @@
-
-
-```markdown
 # 📝 Flask To-Do List App
 
 A simple and interactive **To-Do List web application** built with **Flask**, **SQLAlchemy**, and **HTML/CSS**.  
@@ -16,8 +13,6 @@ Users can **add**, **toggle**, and **delete** tasks — all stored in a local da
 ✅ Clean and responsive user interface  
 ✅ Uses SQLite for persistent storage  
 
----
-```
 ## 🧩 Project Structure
 
 
