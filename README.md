@@ -1,8 +1,6 @@
-Perfect 👍 you’ve structured your Flask To-Do List app very neatly — now let’s make a **professional README.md** for your GitHub repo.
 
-Here’s a ready-to-use example (you can copy–paste this directly into a file named `README.md` in your project root):
 
----
+
 
 ```markdown
 # 📝 Flask To-Do List App
@@ -49,7 +47,7 @@ flask-todo-list/
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/<your-username>/flask-todo-list.git
+git clone https://github.com/anu-0035/To-Do-App.git
 cd flask-todo-list
 ````
 
@@ -125,15 +123,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ````
 
----
 
-### 👉 Next Steps
-1. Save that as `README.md` in your repo.
-2. Commit and push it:
-   ```bash
-   git add README.md
-   git commit -m "Add README file"
-   git push
 ````
 
 Would you like me to include a **screenshot section** with Markdown image syntax (for when you upload images later)? I can add a formatted placeholder.
