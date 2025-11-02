@@ -1,7 +1,5 @@
 
 
-
-
 ```markdown
 # 📝 Flask To-Do List App
 
@@ -22,7 +20,7 @@ Users can **add**, **toggle**, and **delete** tasks — all stored in a local da
 
 ## 🧩 Project Structure
 
-```
+```markdown
 
 flask-todo-list/
 │
@@ -32,7 +30,7 @@ flask-todo-list/
 │   ├── routes/               # Route blueprints
 │   ├── static/               # CSS and JS files
 │   ├── templates/            # HTML templates (Jinja2)
-│   ├── instance/             # SQLite DB and config (auto-created)
+│   └── instance/             # SQLite DB and config (auto-created)
 │
 ├── run.py                    # Main entry point to run Flask app
 ├── requirements.txt          # Python dependencies
@@ -46,9 +44,10 @@ flask-todo-list/
 ## ⚙️ Installation and Setup
 
 ### 1️⃣ Clone this repository
+
 ```bash
 git clone https://github.com/anu-0035/To-Do-App.git
-cd flask-todo-list
+cd To-Do-App
 ````
 
 ### 2️⃣ Create a virtual environment
@@ -59,16 +58,17 @@ python -m venv venv
 
 ### 3️⃣ Activate the environment
 
-* **Windows:**
+**Windows:**
 
-  ```bash
-  venv\Scripts\activate
-  ```
-* **Mac/Linux:**
+```bash
+venv\Scripts\activate
+```
 
-  ```bash
-  source venv/bin/activate
-  ```
+**Mac/Linux:**
+
+```bash
+source venv/bin/activate
+```
 
 ### 4️⃣ Install dependencies
 
@@ -108,6 +108,12 @@ Now visit 👉 **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)** in your brow
 
 *Add screenshots of your app here (optional).*
 
+Example:
+
+```markdown
+![Home Page Screenshot](static/screenshots/home.png)
+```
+
 ---
 
 ## 👨‍💻 Author
@@ -124,6 +130,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ````
 
 
-````
-
-Would you like me to include a **screenshot section** with Markdown image syntax (for when you upload images later)? I can add a formatted placeholder.
