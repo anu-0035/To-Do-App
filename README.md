@@ -17,11 +17,11 @@ Users can **add**, **toggle**, and **delete** tasks — all stored in a local da
 ✅ Uses SQLite for persistent storage  
 
 ---
-
+```
 ## 🧩 Project Structure
 
-```
 
+```
 flask-todo-list/
 │
 ├── app/
